@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berksaltuk
 - 👀 I’m a lifelong computer science student!
-- 🌱 I’m currently learning Rust & Flutter
+- 🌱 I’m currently learning Pytorch, Rust & Flutter
 
 <!---
 berksaltuk/berksaltuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

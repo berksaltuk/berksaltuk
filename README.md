@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berksaltuk
-- 👀 I’m a lifelong computer science student!
+- 👀 I’m a backend engineer at Getir and a lifelong computer science student!
 - 🌱 Interested in backend development & deep learning
 
 <!---

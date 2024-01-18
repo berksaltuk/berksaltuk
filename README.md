@@ -1,7 +1,7 @@
-👋 Hi there, I’m @berksaltuk
-👀 I’m a backend engineer at Getir and a lifelong computer science student!
-🎓 I am a recent graduate of Bilkent University CS
-🌱 Interested in backend development, deep learning & graphic design
+👋 Hi there, I’m @berksaltuk  <br>
+👀 I’m a backend engineer at Getir and a lifelong computer science student!  <br>
+🎓 I am a recent graduate of Bilkent University CS  <br>
+🌱 Interested in backend development, deep learning & graphic design  <br>
 
 
 <p align="center">

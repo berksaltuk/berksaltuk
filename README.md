@@ -1,14 +1,14 @@
+- 👋 Hi, I’m @berksaltuk
+- 👀 I’m a backend engineer at Getir and a lifelong computer science student!
+- 🌱 Interested in backend development & deep learning
+
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=berksaltuk&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=berksaltuk&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=berksaltuk&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
-
-
-- 👋 Hi, I’m @berksaltuk
-- 👀 I’m a backend engineer at Getir and a lifelong computer science student!
-- 🌱 Interested in backend development & deep learning
 
 <!---
 berksaltuk/berksaltuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

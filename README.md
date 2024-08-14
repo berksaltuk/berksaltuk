@@ -1,5 +1,5 @@
 <p align="right">👋 Hi there, I’m @berksaltuk  <br>
-👀 I’m a backend engineer at Getir and a lifelong computer science student!  <br>
+👀 I’m a software engineer at Getir and a lifelong computer science student!  <br>
 🎓 Graduated magna cum laude from Bilkent University CS  <br>
 🌱 Interested in backend development, computer vision & graphic design  <br> </p>
 

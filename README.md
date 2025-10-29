@@ -1,6 +1,6 @@
 <p align="right">👋 Hi there, I’m @berksaltuk  <br>
 Backend Engineer & Lifelong Student <br>
-🎓 BSc @Bilkent University, Incoming MSc Student @KU Leuven <br>
+🎓 BSc @Bilkent University, MSc Student @KU Leuven <br>
 
 
 <p align="center">
